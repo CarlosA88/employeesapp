@@ -18,8 +18,7 @@ class EmployeesDashboard extends Component {
       },
     ],
   };
-  change test master change 
-  Test newbranch
+  Deleting text from New-Branch
   
   // componentWillMount() {
   //   Axios.get("https://employees-83f9f.firebaseio.com/employee.json")
