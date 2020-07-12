@@ -6,9 +6,9 @@ In the project directory, you can run:
 
 ### **`Hi! test`**
 
-1.  This is a text [msn](www.google.com)
-2.  This is a text [msn](www.google.com)
-3.  This is a text [msn](www.google.com)
+1.  This is a text [msn](https://www.google.com/) now we are redirenting link 
+2.  This is a text [msn](https://www.google.com/)
+3.  This is a text [msn](https://www.google.com/)
 
 **Cheers**!!
   
